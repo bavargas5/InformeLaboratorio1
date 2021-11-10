@@ -13,3 +13,5 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 3.	Comparar los resultados obtenidos con los valores calculados.
 
 **Marco teórico:**
+
+[]https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/MAP.png
