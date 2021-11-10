@@ -15,3 +15,9 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 **Marco teórico:**
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/MAP.png)
+
+**Conclusiones:**
+
+- En conclusión, el uso de la herramienta Tinkercad facilita la construcción de circuitos eléctricos, en los cuales posteriormente se pueden realizar mediciones y comprobar los resultados calculados. 
+- Realizar ejercicios relacionados con las leyes de Kirchhoff ayudan a comprender su aplicación y funcionamiento en un circuito.
+- Comparar los valores calculados con los valores medidos permiten comprobar que las leyes de Kirchhoff funcionan, siempre tomando en cuenta que en la vida real estos valores pueden variar mucho más debido a que las resistencias utilizadas tienen ciertos valores de tolerancia.
