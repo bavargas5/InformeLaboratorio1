@@ -14,4 +14,4 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 **Marco teórico:**
 
-[]https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/MAP.png
+![]https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/MAP.png
