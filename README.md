@@ -20,6 +20,8 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 **Materiales utilizados**
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/M.png)
+
 **Circuito analizado**
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/BASE.png)
