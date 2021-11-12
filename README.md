@@ -1,22 +1,28 @@
 # InformeLaboratorio1
 
-**1. OBJETIVOS**
+## 1. OBJETIVOS
 
--	General
+**-General**
 
 Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con la elaboración de un circuito eléctrico básico para comprobar las leyes de Kirchhoff.
 
--	Específicos
+**-	Específicos**
 
 1.	Construir un circuito eléctrico con la herramienta Tinkercad
 2.	Emplear los ejercicios necesarios para comprobar las leyes de Kirchhoff
 3.	Comparar los resultados obtenidos con los valores calculados.
 
-**2. MARCO TEÓRICO**
+## 2. MARCO TEÓRICO
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/MAP.png)
 
-**3. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/DIAGRAMA%20CORRIENTES%20KIRCHHOFF.png)
+
+
+## 3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
 **Materiales utilizados**
 
@@ -128,7 +134,7 @@ Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corri
 
 Los valores medidos son más altos debido a que la simulación funciona como un sistema ideal, no toma en cuenta factores que se dan en la vida real.
 
-**4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **Cálculos del porcentaje de error** 
 
@@ -153,12 +159,12 @@ Ejemplo del cálculo del porcentaje de error:
 | VR5 (V)  | 3.69 V  | 3.70 V | 0.27 % |
 | IR5 (mA) | 2.05 mA | 2.05 mA | 0 % |
 
-**5. VIDEO**
+## 5. VIDEO
 
-**6. CONCLUSIONES**
+## 6. CONCLUSIONES
 
 - En conclusión, el uso de la herramienta Tinkercad facilita la construcción de circuitos eléctricos, en los cuales posteriormente se pueden realizar mediciones y comprobar los resultados calculados. 
 - Realizar ejercicios relacionados con las leyes de Kirchhoff ayudan a comprender su aplicación y funcionamiento en un circuito.
 - Comparar los valores calculados con los valores medidos permiten comprobar que las leyes de Kirchhoff funcionan, siempre tomando en cuenta que en la vida real estos valores pueden variar mucho más debido a que las resistencias utilizadas tienen ciertos valores de tolerancia.
 
-**7. BIBLIOGRAFÍA**
+## 7. BIBLIOGRAFÍA
