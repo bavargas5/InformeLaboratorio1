@@ -178,6 +178,38 @@ Con el simulador comprobamos que salen los mismos resultados que calculamos.
 
 ## Verificación de la LCK.
 
+La Ley de corrientes de Kirchhoff es el teorema cuya ecuación expresa que la sumatoria de las intensidades que ingresan a un nodo es igual a cero, o mas en específico la suma de una corriente que entra es igual a la suma de dos corrientes que salen.
+Específicamente un nodo es el intervalo o punto de unión entre dos o mas componentes; regla que aplica en su mayoría en los circuitos en serie, no obstante, en circuito en paralelo el nodo es donde se juntan las ramas dispuestas. Los nodos también tienen una clasificación: 
+
+Los Nodos Principales: Son aquellos nodos cuya intersección ocupa mas de componentes y la necesidad de emplear formulas para calcular tanto voltaje como intensidades debido a la división o distribución de magnitudes.
+
+Los Nodos Recíprocos: Son aquellos nodos que, dados por la intersección mínima de dos componentes y la distribución de magnitudes normalmente lineal o dividida, no tiene la necesidad de formulas especiales para centrar estas ecuaciones en su proceso de adquisición de magnitudes.
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_1%20(2).png)
+
+Como se puede apreciar en el primer calculo del nodo a la sumatoria de intensidades en el nodo da cero, esto se explica de modo que los valores de la intensidad que entra se le da valores positivos y aquellos que salen del nodo se les da valores negativos y la respectiva igualdad cero significa que es sentido con el que esta la corriente está bien corroborado.
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_2%20(2).png)
+
+En el caso de que al reemplazar datos no llegue conseguirse una igualdad tiende a expresarse como sentido opuesto de corriente las cuales se las muestra por la ley de signos o incluso este mal desarrollado el proceso no obstante si al con el cambio de signos denota una igualdad o aproximación no muy diferente de la igualdad.
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_3%20(2).png)
+
+Tabla 1.3. Verificación de la LCK.
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_4%20(2).png)
+
+Formula del Error Absoluto 
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_5%20(2).png)
+
+Ejemplos de Calculo del Porcentaje de Error 
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_6%20(2).png)
+
+Tabla del Porcentaje de Error de LKC
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/img/lab1_7%20(2).png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
