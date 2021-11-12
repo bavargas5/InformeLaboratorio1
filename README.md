@@ -174,6 +174,9 @@ Con el simulador comprobamos que salen los mismos resultados que calculamos.
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/diagrama%20semireal.png)
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/tabla%202.png)
+
+
 
 
 ## Verificación de la LCK.
@@ -235,6 +238,11 @@ Ejemplo del cálculo del porcentaje de error:
 | IR4 (mA) | 0.964 mA | 0.965 mA | 0.1 %  |
 | VR5 (V)  | 3.69 V  | 3.70 V | 0.27 % |
 | IR5 (mA) | 2.05 mA | 2.05 mA | 0 % |
+
+
+**Verificación de la LVK. 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/tabla%20error.png)
+
 
 ## 5. VIDEO
 
