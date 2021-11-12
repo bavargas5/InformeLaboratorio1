@@ -151,7 +151,7 @@ Ejemplo del cálculo del porcentaje de error:
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/E2.png)
 
-| VARIABLE | VALOR CALCULADO | VALOR MEDIDO | VALOR MEDIDO |
+| VARIABLE | VALOR CALCULADO | VALOR MEDIDO | % de error |
 | ------------- | ------------- | ------------- | ------------- |
 | VR1 (V)  | 2.05 V | 2.05 V | 0 % |
 | IR1 (mA) | 2.05 mA | 2.05 mA | 0 % |
