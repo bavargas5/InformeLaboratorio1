@@ -26,6 +26,48 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/CIRCUITO.png)
 
+**Toma de medidas**
+
+**Voltaje en R1**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/VR1.png)
+
+**Voltaje en R2**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/VR2.png)
+
+**Voltaje en R3**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/VR3.png)
+
+**Voltaje en R4**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/VR4.png)
+
+**Voltaje en R5**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/VR5.png)
+
+**Intensidad en R1**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/IR1.png)
+
+**Intensidad en R2**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/IR2.png)
+
+**Intensidad en R3**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/IR3.png)
+
+**Intensidad en R4**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/IR4.png)
+
+**Intensidad en R5**
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/IR5.png)
+
 **Cálculos teóricos:**
 
 **Fórmulas utilizadas:**
