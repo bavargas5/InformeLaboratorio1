@@ -135,6 +135,48 @@ Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corri
 Los valores medidos son más altos debido a que la simulación funciona como un sistema ideal, no toma en cuenta factores que se dan en la vida real.
 
 ## Verificación de la LVK. 
+Usanos la ley del voltaje de Kirchhof 
+Vs-V1-V2-Vn……………=0
+
+Entonces
+ 0=10V-1kΩ(I1) -3,9KΩ(I1-I2) -1,8KΩ(I1) 
+0=10V-1kΩ(I1 )- 3,9KΩ(I1) + 3,9KΩ( I2) -1,8KΩ(T1) 
+10V=6.7 kΩ (I1) -3,9 kΩ(I2)
+
+Para la trayectoria 2, realizamos lo mismo, pero en este caso el voltaje es 0
+0= 0V-2,2KΩ(I2) -2,2KΩ(I2) -3,9KΩ(I2-I1) 
+0V= -2,2KΩ(I2) -2,2KΩ(I2) -3,9KΩ(I2-I1)
+0V= 2,2KΩ(I2) +2,2KΩ(I2) +3,9KΩ(I2-I1)
+0V= 2,2KΩ(I2) +2,2KΩ(I2) +3,9KΩ(I2) -3,9KΩ (I1)
+0V=8,3 KΩ(I2)- 3,9KΩ(I1)
+
+Como témenos 2 ecuaciones, procedemos a realizar un sistema de ecuaciones
+10V=6.7 kΩ (I1) -3,9 kΩ(I2)    (3,9)
+0V= - 3,9KΩ(I1) + 8,3 KΩ(I2)   (6,7)
+
+39V= 26,13kΩ (I1) -15,21 kΩ(I2)    (3,9)
+0V= - 26,13KΩ(I1) + 55,61 KΩ(I2)   (6,7)
+
+39V=  40,4 kΩ(I2)    
+I2=39V/(40,4 kΩ)
+	
+I2=0,953*〖10〗^(-3)
+I2=0,965mA
+Remplazamos en una de las ecuaciones para así encontrar I1
+0V= - 3,9KΩ(I1) + 8,3 KΩ(0.965mA)
+ 0V= - 3,9KΩ(I1) + 8V
+
+I1=8V/3,9KΩ
+I1=2,05*〖10〗^(-3) A
+I1=2.05mA
+Para encontrar el voltaje que tiene cada resistencia utilizamos la ley de ohm
+V=IR
+VR1=1 kΩ (2.05mA)=2,05 v
+VR2=3,9 kΩ (2.05-0,965mA)=4,23 v
+VR3=2,2 kΩ (0,956mA)=2,12v
+VR4=2,2 kΩ (0,956mA)=2,12 v
+VR5=1,8 kΩ (2.05mA)=3,69 v
+
 
 ## Verificación de la LCK.
 
