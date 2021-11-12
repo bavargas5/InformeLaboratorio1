@@ -128,8 +128,18 @@ Los valores medidos son más altos debido a que la simulación funciona como un 
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-| VARIABLE | VALOR CALCULADO | VALOR MEDIDO | VALOR MEDIDO |
-| ------------- | ------------- | ------------- | ------------- |
+**Cálculos del porcentaje de error** 
+
+Para calcular el porcentaje de error de los valores obtenidos se utiliza la siguiente formula:
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/E1.png)
+
+Ejemplo del cálculo del porcentaje de error:
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/E2.png)
+
+| VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
+| ------------- | ------------- | ------------- |
 | VR1 (V)  | 2.05 V | 2.05 V | |
 | IR1 (mA) | 2.05 mA | 2.05 mA | |
 | VR2 (V)  | 4.24 V | 4.25 V | |
