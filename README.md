@@ -117,7 +117,7 @@ Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corri
 
 **TABLA 1.1**
 
-| VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
+| VARIABLE | VALOR CALCULADO | % de error |
 | ------------- | ------------- | ------------- |
 | VR1 (V)  | 2.05 V | 2.05 V |
 | IR1 (mA) | 2.05 mA | 2.05 mA |
