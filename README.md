@@ -170,6 +170,12 @@ Para encontrar el voltaje que tiene cada resistencia utilizamos la ley de ohm
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/6.png)
 
 
+Con el simulador comprobamos que salen los mismos resultados que calculamos.
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/diagrama%20semireal.png)
+
+
+
 ## Verificación de la LCK.
 
 
