@@ -168,3 +168,6 @@ Ejemplo del cálculo del porcentaje de error:
 - Comparar los valores calculados con los valores medidos permiten comprobar que las leyes de Kirchhoff funcionan, siempre tomando en cuenta que en la vida real estos valores pueden variar mucho más debido a que las resistencias utilizadas tienen ciertos valores de tolerancia.
 
 ## 7. BIBLIOGRAFÍA
+
+-Mecafenix, I. (2020, 9 junio). Ley de corriente de Kirchhoff. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/ley-de-corriente-de-kirchhoff/
+- Khan Academy. (s. f.). Las leyes de Kirchhoff (artículo). https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
