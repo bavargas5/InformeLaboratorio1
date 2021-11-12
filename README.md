@@ -138,20 +138,36 @@ Los valores medidos son más altos debido a que la simulación funciona como un 
 
 Para esto trazamos las líneas de movimiento del voltaje en el circuito, para guiarnos mejor.
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/diagrama%20K%20c.png)
+
 Usamos la ley del voltaje de Kirchhoff 
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/formula%20K%20C.png)
 
 Entonces
 
 Para la trayectoria 1, realizamos lo mismo, pero en este caso el voltaje es 10
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/1.png)
+
 
 Para la trayectoria 2, realizamos lo mismo, pero en este caso el voltaje es 0
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/2.png)
+
 Como témenos 2 ecuaciones, procedemos a realizar un sistema de ecuaciones
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/3.png)
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/4.png)
 
 Remplazamos en una de las ecuaciones para así encontrar I1
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/5.png)
+
 Para encontrar el voltaje que tiene cada resistencia utilizamos la ley de ohm
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/IMAGENES/6.png)
 
 
 ## Verificación de la LCK.
