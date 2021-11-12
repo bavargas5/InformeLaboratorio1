@@ -68,38 +68,44 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/IR5.png)
 
-**Cálculos teóricos:**
+**Cálculos teóricos**
 
-**Fórmulas utilizadas:**
+  **Fórmulas utilizadas:**
+  
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F1.png)
 
-**Procedimiento:**
+  **Procedimiento:**
 
-
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F2.png)
 
 Para un circuito mixto primero se debe transformar a un circuito en serie:
 Para ello sumar las resistencias R3 y R4
 Con ello se forma un circuito en paralelo con la resistencia R2 y R34 
 Sumar estas resistencias para obtener un circuito en serie con las resistencias R1, R234 y R5
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F3.png)
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F4.png)
 
 En un circuito en serie la corriente en todas las resistencias es la misma por ello:
 
-
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F5.png)
 
 Con esto se calcula los voltajes en cada resistencia:
 
-
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F6.png)
 
 El voltaje en un circuito en paralelo tomando como referencia la resistencia R234 que es la suma de R2 + R34 y que se comportan como un circuito en paralelo, en donde el voltaje para ambas resistencias será el mismo que el de la resistencia R234:
 
-
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F7.png)
 
 Con estos datos se calcula la intensidad en las resistencias restantes:
 
-
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F8.png)
 
 Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corriente que circula por ellas siempre será la misma, por lo tanto:
+
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/F9.png)
 
 **TABLA 1.1**
 
