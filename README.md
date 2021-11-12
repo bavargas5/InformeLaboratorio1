@@ -122,6 +122,10 @@ Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corri
 | VR5 (V)  | 3.69 V  | 3.70 V |
 | IR5 (mA) | 2.05 mA | 2.05 mA |
 
+**Observación**
+
+Los valores medidos son más altos debido a que la simulación funciona como un sistema ideal, no toma en cuenta factores que se dan en la vida real.
+
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 **5. VIDEO**
