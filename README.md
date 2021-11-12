@@ -138,18 +138,18 @@ Ejemplo del cálculo del porcentaje de error:
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/E2.png)
 
-| VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
-| ------------- | ------------- | ------------- |
-| VR1 (V)  | 2.05 V | 2.05 V | |
-| IR1 (mA) | 2.05 mA | 2.05 mA | |
-| VR2 (V)  | 4.24 V | 4.25 V | |
-| IR2 (mA) | 1.09 mA | 1.09 mA | |
-| VR3 (V)  | 2.11 V | 2.12 V | |
-| IR3 (mA) | 0.964 mA | 0.965 mA | |
-| VR4 (V)  | 2.11 V | 2.12 V | |
-| IR4 (mA) | 0.964 mA | 0.965 mA | |
-| VR5 (V)  | 3.69 V  | 3.70 V | |
-| IR5 (mA) | 2.05 mA | 2.05 mA | |
+| VARIABLE | VALOR CALCULADO | VALOR MEDIDO | VALOR MEDIDO |
+| ------------- | ------------- | ------------- | ------------- |
+| VR1 (V)  | 2.05 V | 2.05 V | 0 % |
+| IR1 (mA) | 2.05 mA | 2.05 mA | 0 % |
+| VR2 (V)  | 4.24 V | 4.25 V | 0 % |
+| IR2 (mA) | 1.09 mA | 1.09 mA | 0 % |
+| VR3 (V)  | 2.11 V | 2.12 V |0.47 % |
+| IR3 (mA) | 0.964 mA | 0.965 mA | 0.1 % |
+| VR4 (V)  | 2.11 V | 2.12 V | 0.47 %  |
+| IR4 (mA) | 0.964 mA | 0.965 mA | 0.1 %  |
+| VR5 (V)  | 3.69 V  | 3.70 V | 0.27 % |
+| IR5 (mA) | 2.05 mA | 2.05 mA | 0 % |
 
 **5. VIDEO**
 
