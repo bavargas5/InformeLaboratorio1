@@ -111,16 +111,16 @@ Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corri
 
 | VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
 | ------------- | ------------- | ------------- |
-| VR1 (V)  | 2.05 V | Contenido de la celda  |
-| IR1 (mA) | 2.05 mA | Contenido de la celda  |
-| VR2 (V)  | 4.24 V | Contenido de la celda  |
-| IR2 (mA) | 1.09 mA | Contenido de la celda  |
-| VR3 (V)  | 2.11 V | Contenido de la celda  |
-| IR3 (mA) | 0.964 mA | Contenido de la celda  |
-| VR4 (V)  | 2.11 V | Contenido de la celda  |
-| IR4 (mA) | 0.964 mA | Contenido de la celda  |
-| VR5 (V)  | 3.69 V  | Contenido de la celda  |
-| IR5 (mA) | 2.05 mA | Contenido de la celda  |
+| VR1 (V)  | 2.05 V | 2.05 V |
+| IR1 (mA) | 2.05 mA | 2.05 mA |
+| VR2 (V)  | 4.24 V | 4.25 V |
+| IR2 (mA) | 1.09 mA | 1.09 mA |
+| VR3 (V)  | 2.11 V | 2.12 V |
+| IR3 (mA) | 0.964 mA | 0.965 mA |
+| VR4 (V)  | 2.11 V | 2.12 V  |
+| IR4 (mA) | 0.964 mA | 0.965 mA |
+| VR5 (V)  | 3.69 V  | 3.70 V |
+| IR5 (mA) | 2.05 mA | 2.05 mA |
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
