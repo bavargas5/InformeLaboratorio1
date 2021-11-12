@@ -1,6 +1,6 @@
 # InformeLaboratorio1
 
-**Objetivos:**
+**1. OBJETIVOS**
 
 -	General
 
@@ -12,15 +12,15 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 2.	Emplear los ejercicios necesarios para comprobar las leyes de Kirchhoff
 3.	Comparar los resultados obtenidos con los valores calculados.
 
-**Marco teórico:**
+**2. MARCO TEÓRICO**
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/MAP.png)
+
+**3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
 **Cálculos teóricos:**
 
 **Fórmulas utilizadas:**
-
-
 
 **Procedimiento:**
 
@@ -52,9 +52,14 @@ Con estos datos se calcula la intensidad en las resistencias restantes:
 Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corriente que circula por ellas siempre será la misma, por lo tanto:
 
 
+**4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-**Conclusiones:**
+**5. VIDEO**
+
+**6. CONCLUSIONES**
 
 - En conclusión, el uso de la herramienta Tinkercad facilita la construcción de circuitos eléctricos, en los cuales posteriormente se pueden realizar mediciones y comprobar los resultados calculados. 
 - Realizar ejercicios relacionados con las leyes de Kirchhoff ayudan a comprender su aplicación y funcionamiento en un circuito.
 - Comparar los valores calculados con los valores medidos permiten comprobar que las leyes de Kirchhoff funcionan, siempre tomando en cuenta que en la vida real estos valores pueden variar mucho más debido a que las resistencias utilizadas tienen ciertos valores de tolerancia.
+
+**7. BIBLIOGRAFÍA**
