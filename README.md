@@ -18,6 +18,10 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
+**Materiales utilizados**
+
+**Circuito analizado**
+
 **Cálculos teóricos:**
 
 **Fórmulas utilizadas:**
@@ -50,6 +54,8 @@ Con estos datos se calcula la intensidad en las resistencias restantes:
 
 
 Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corriente que circula por ellas siempre será la misma, por lo tanto:
+
+**TABLA 1.1**
 
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
