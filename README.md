@@ -134,6 +134,11 @@ Como la resistencia R34 es la suma de dos resistencias en serie R3 y R4 la corri
 
 Los valores medidos son más altos debido a que la simulación funciona como un sistema ideal, no toma en cuenta factores que se dan en la vida real.
 
+## Verificación de la LVK. 
+
+## Verificación de la LCK.
+
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **Cálculos del porcentaje de error** 
