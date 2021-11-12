@@ -22,6 +22,8 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 **Circuito analizado**
 
+![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/BASE.png)
+
 **Cálculos teóricos:**
 
 **Fórmulas utilizadas:**
