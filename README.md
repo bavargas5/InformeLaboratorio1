@@ -28,7 +28,7 @@ Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia, con
 
 **Toma de medidas**
 
-**Voltaje en R1**
+**Voltaje en R1** 
 
 ![](https://github.com/bavargas5/InformeLaboratorio1/blob/main/Im%C3%A1genes/VR1.png)
 
