@@ -246,6 +246,8 @@ Ejemplo del cálculo del porcentaje de error:
 
 ## 5. VIDEO
 
+https://youtu.be/uUVU3g113VE
+
 ## 6. CONCLUSIONES
 
 - En conclusión, el uso de la herramienta Tinkercad facilita la construcción de circuitos eléctricos, en los cuales posteriormente se pueden realizar mediciones y comprobar los resultados calculados. 
